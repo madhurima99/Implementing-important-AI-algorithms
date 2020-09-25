@@ -1,2 +1,2 @@
 # Important-Algorithms
-AI algos included.
+AI algos.
